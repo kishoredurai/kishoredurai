@@ -15,13 +15,14 @@
 ---
 ## 📈 Github Stats
 
-<a href="https://github.com/kishoredurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&hide_border=true" />
-</a>
-<a hef="https://github.com/kishoredurai">
-      <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-
+<div align="center"> 
+     <a href="https://github.com/kishoredurai">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&hide_border=tru&line_height=40" />
+    </a>
+    <a href="https://github.com/kishoredurai">
+      <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
+    </a>
+</div
 
 ## Connect with me:
 
