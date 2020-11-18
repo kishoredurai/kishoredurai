@@ -1,5 +1,4 @@
-### Hi there 👋 I am [kishore D][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
+[Hey there, 👋 I'm 𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫. I'm a Frontend Web Developer , Google cloud Facilitator (https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 <!--
 **kishoredurai/kishoredurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
