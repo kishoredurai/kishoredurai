@@ -21,7 +21,7 @@
     <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;
   <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>&nbsp;
   <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
-
+ <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>&nbsp;
 </p>
 
 ## 🛠 Languages and Tools:
@@ -29,7 +29,7 @@
 
 <div align="center"> 
      <a href="https://github.com/kishoredurai">
-        <img align="center" height="281px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&line_height=50" />&nbsp;
+        <img align="center" height="283px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&line_height=50" />&nbsp;
     </a>
     <a href="https://github.com/kishoredurai">
       <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
