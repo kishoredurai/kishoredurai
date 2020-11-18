@@ -32,10 +32,8 @@
 ![Docker](http://img.shields.io/badge/-Docker-2F3A40?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Linuz](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
-
-----
 
 ## 📲 Connect with me :
 <p align="left">
@@ -60,4 +58,8 @@
     </a>
 </div
   
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
