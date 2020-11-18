@@ -31,7 +31,7 @@
 ![GCP](http://img.shields.io/badge/-GCP-4C89EE?style=flat-square&logo=google-cloud&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2F3A40?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
-![Kubernetes](http://img.shields.io/badge/-Amazon AWS-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Kubernetes](http://img.shields.io/badge/-Microsoft-3069DE?style=flat-square&logo=Microsoft&logoColor=ffffff)
 
 
 ----
