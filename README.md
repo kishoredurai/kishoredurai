@@ -1,4 +1,4 @@
-[Hey there, 👋 I'm 𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫. I'm a Frontend Web Developer , Google cloud Facilitator (https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+[Hey there, 👋 I'm 𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫. I'm a Frontend Web Developer , Google cloud Facilitator] (https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 <!--
 **kishoredurai/kishoredurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
