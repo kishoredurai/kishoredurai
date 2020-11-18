@@ -23,7 +23,7 @@
   <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
 
 </p>
-<br/>
+
 ## 🛠 Languages and Tools:
 ## 📈 Github Stats
 
