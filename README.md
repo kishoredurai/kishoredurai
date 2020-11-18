@@ -19,9 +19,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&hide_border=true" />
 </a>
 <a hef="https://github.com/kishoredurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishoredurai&repo=go-project-blueprint" />
+      <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-
 
 
 ## Connect with me:
