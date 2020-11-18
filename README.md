@@ -14,5 +14,8 @@
 
 ---
 ## 📈 Github Stats
+<details>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishoredurai&show_icons=true&hide_border=true" />
 <img height="180em" width="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+</details>
