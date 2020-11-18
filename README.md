@@ -22,8 +22,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Angularjs](https://img.shields.io/badge/-Angularjs-af2d2f?style=flat-square&logo=angular&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Azure](http://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-EEE705?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -31,8 +31,9 @@
 ![GCP](http://img.shields.io/badge/-GCP-4C89EE?style=flat-square&logo=google-cloud&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2F3A40?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
-![Azure](http://img.shields.io/badge/-Azure-EF931E?style=flat-square&logo=Microsoft%20Azure&logoColor=ffffff)
-
+![Linuz](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 ----
 
