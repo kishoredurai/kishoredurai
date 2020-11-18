@@ -1,17 +1,13 @@
-# Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm [𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫](https://anuraghazra.github.io)
-<!--
-**kishoredurai/kishoredurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm [𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫](https://kishoredurai.github.io/kishoredurai/main.html)</h1>
+<h3 align="center">Computer Technology Student && Google Cloud Facilitator</h3>
 
-## I'm a Computer Technology Student
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<img align="right" alt="GIF" height="160px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+## 💻 #include<BIT.CT> ✨
+- 🔭 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning data structure Algorithms and go 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 🏆 Grand Finalist of "Smart India Hackathon 2020" - Software Edition!
+- 💬 Ping me about c++,c,linux and cloud stuff.
+- ⚡ Fun fact: I love to watch movies and listening songs 🎧
+
