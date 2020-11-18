@@ -35,6 +35,8 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
+
+<br />
 ## 📲 Connect with me :
 <p align="left">
   <a href="https://github.com/kishoredurai"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
@@ -46,7 +48,7 @@
  <a href="https://www.instagram.com/kishore__durai/"><img alt="instagram" title="instagram" height="28" width="28" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>&nbsp;
   <a href = "mailto:kishore.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
 </p>
-
+<br />
 ## 📈 Github Stats :
 
 <div align="center"> 
@@ -60,6 +62,6 @@
   
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+<h2 align="center" Show some ❤️ by starring some of the repositories!</h2>
 
 </div>
