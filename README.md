@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to watch movies and listening songs 🎧
 
 ---
-<br/>
+
 ## 🛠 Languages and Tools:
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -36,7 +36,7 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 
-<br />
+
 ## 📲 Connect with me :
 <p align="left">
   <a href="https://github.com/kishoredurai"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
