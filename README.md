@@ -13,24 +13,27 @@
 - ⚡ Fun fact: I love to watch movies and listening songs 🎧
 
 ---
-<br>
-##  Connect with me:
+## 📲 Connect with me:
 <p align="left">
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
-  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
-   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="25" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
+   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>&nbsp;
+    <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;
+  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>&nbsp;
+  <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
 
 </p>
-
+<br/>
+## 🛠 Languages and Tools:
 ## 📈 Github Stats
 
 <div align="center"> 
      <a href="https://github.com/kishoredurai">
-        <img align="center" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&line_height=50" />&nbsp;
+        <img align="center" height="281px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredurai&show_icons=true&line_height=50" />&nbsp;
     </a>
     <a href="https://github.com/kishoredurai">
       <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
     </a>
 </div
   
-## 📈 Github Stats
+
