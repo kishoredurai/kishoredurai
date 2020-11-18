@@ -17,16 +17,12 @@
 ## 🛠 Languages and Tools:
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6cc562?style=flat-square&logo=spring&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![MySql](http://img.shields.io/badge/-MySql-255278?style=flat-square&logo=mysql&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Angularjs](https://img.shields.io/badge/-Angularjs-af2d2f?style=flat-square&logo=angular&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Expressjs](https://img.shields.io/badge/-Expressjs-0f0f0f?style=flat-square&logo=express&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -35,11 +31,10 @@
 ![GCP](http://img.shields.io/badge/-GCP-4C89EE?style=flat-square&logo=google-cloud&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2F3A40?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
-![Jenkins](http://img.shields.io/badge/-Jenkins-435761?style=flat-square&logo=jenkins&logoColor=ffffff)
+![Kubernetes](http://img.shields.io/badge/-AZURE-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
 
-<br />
+
 ----
-<br />
 
 ## 📲 Connect with me :
 <p align="left">
@@ -50,7 +45,7 @@
   <a href="https://www.youtube.com/channel/UCgpT3ZaSzPT70Lq0wBfxmRg"><img alt="YouTube" title="YouTube" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>&nbsp;
   <a href="https://www.facebook.com/kishoredurai27/"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
  <a href="https://www.instagram.com/kishore__durai/"><img alt="instagram" title="instagram" height="28" width="28" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>&nbsp;
-  <a href = "mailto:kishore.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
+  <a href = "mailto:kishore.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
 </p>
 
 ## 📈 Github Stats :
