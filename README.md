@@ -6,7 +6,6 @@
 ## ✨ About Me :
 - 🔭 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning data structure Algorithms and go 
-- 👯 I’m looking to collaborate on ...
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 🏆 Grand Finalist of "Smart India Hackathon 2020" - Software Edition!
 - 💬 Ping me about c++,c,linux and cloud stuff.
