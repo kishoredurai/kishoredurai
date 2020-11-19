@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm <a href="https://kishoredurai.github.io/kishoredurai/main.html">𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫</a></h1>
 <h3 align="center">Computer Technology Student && Google Cloud Facilitator</h3>
 
-<img align="right" alt="GIF" width="400" height="350" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<img align="right" alt="GIF" width="390" height="350" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## ✨ About Me :
 - 🔭 I’m currently working on something cool :wink:;
