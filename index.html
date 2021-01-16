@@ -20,7 +20,6 @@
 
     <link rel="icon" href="images\about.png" type="image/jpeg" border-radius:"50%";>
     <style>
-        
         #googlemaps {
 
             overflow: hidden;
@@ -49,37 +48,9 @@
             position: absolute;
 
         }
-
-       
-        
     </style>
-      <style> 
-        #loader { 
-            border: 12px solid #f3f3f3; 
-            border-radius: 50%; 
-            border-top: 12px solid #444444; 
-            width: 70px; 
-            height: 70px; 
-            animation: spin 1s linear infinite; 
-        } 
-          
-        @keyframes spin { 
-            100% { 
-                transform: rotate(360deg); 
-            } 
-        } 
-          
-        .center { 
-            position: absolute; 
-            top: 0; 
-            bottom: 0; 
-            left: 0; 
-            right: 0; 
-            margin: auto; 
-        } 
-    </style> 
+
 </head>
-<div id="loader" class="center"></div> 
 
 <body>
 
@@ -408,8 +379,7 @@
                                         <div class="cc-porfolio-image img-raised" data-aos="fade-up"
                                             data-aos-anchor-placement="top-bottom">
                                             <a href="#graphic-design">
-                                                <figure class="cc-effect"><img src="certficate/001.jpg"
-                                                        alt="Image" />
+                                                <figure class="cc-effect"><img src="certficate/001.jpg" alt="Image" />
                                                     <figcaption>
                                                         <div class="h4">FIRST PRIZE PROJECT PRESENTATION</div>
                                                         <p><b>cash PRIZE 4K </b></p>
@@ -633,9 +603,10 @@
                                                                     <input class="form-control" type="text"
                                                                         name="Contact"
                                                                         oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
-                                                                        maxlength="10" placeholder="contact" id="myInput1" 
-                                                                        onfocus="this.value=''" value="Contact Number"
-                                                                        required="required" style="color: blue;" />
+                                                                        maxlength="10" placeholder="contact"
+                                                                        id="myInput1" onfocus="this.value=''"
+                                                                        value="Contact Number" required="required"
+                                                                        style="color: blue;" />
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -646,7 +617,7 @@
                                                                         class="input-group-addon"><i
                                                                             class="fa fa-envelope"></i></span>
                                                                     <input class="form-control" type="email"
-                                                                        name="email" placeholder="E-mail" id="myInput2" 
+                                                                        name="email" placeholder="E-mail" id="myInput2"
                                                                         onfocus="this.value=''" value="Email ID"
                                                                         required="required" style="color: blue;">
                                                                 </div>
@@ -768,21 +739,7 @@
                 google.maps.event.addDomListener(window, 'load', showGoogleMaps);
                 I
             </script>
-<script> 
-    document.onreadystatechange = function() { 
-        if (document.readyState !== "complete") { 
-            document.querySelector( 
-              "body").style.visibility = "hidden"; 
-            document.querySelector( 
-              "#loader").style.visibility = "visible"; 
-        } else { 
-            document.querySelector( 
-              "#loader").style.display = "none"; 
-            document.querySelector( 
-              "body").style.visibility = "visible"; 
-        } 
-    }; 
-</script> 
+
 
 </body>
 
