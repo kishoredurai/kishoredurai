@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm <a href="https://kishoredurai.github.io/kishoredurai/main.html">𝒌𝒊𝒔𝒉𝒐𝒓𝒆  𝑫</a></h1>
 <h3 align="center">Computer Technology Student && Google Cloud Facilitator</h3>
 
