@@ -51,8 +51,7 @@
 
 ## 📈 Github Stats :
 
-<div align="center"> 
-     
+<div align="center">
     <a href="https://github.com/kishoredurai">
       <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kishoredurai&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
     </a>
