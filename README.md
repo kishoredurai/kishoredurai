@@ -53,7 +53,7 @@
 
 <div align="center"> 
      <a href="https://github.com/kishoredurai">
-        (https://github-readme-streak-stats.herokuapp.com/ user=kishoredurai&count_private=true&show_icons=true&hide=stars&include_all_commits=true)
+        ![Kishore Durai GitHub stats](https://github-readme-streak-stats.herokuapp.com/ user=kishoredurai&count_private=true&show_icons=true&hide=stars&include_all_commits=true)
 &nbsp;
     </a>
     <a href="https://github.com/kishoredurai">
