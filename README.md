@@ -30,7 +30,6 @@
 ![AWS](http://img.shields.io/badge/-AWS-EF931E?style=flat-square&logo=amazon&logoColor=ffffff)
 ![GCP](http://img.shields.io/badge/-GCP-4C89EE?style=flat-square&logo=google-cloud&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2F3A40?style=flat-square&logo=docker&logoColor=ffffff)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Linuz](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
