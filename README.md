@@ -43,8 +43,8 @@
    <a href="https://open.spotify.com/user/dad8c7j9q5hp75iug7dx8bc3r"><img alt="Spotify" title="Spotify" height="28" width="28" src="https://img.icons8.com/color/344/spotify--v3.png"></a>&nbsp;
     <a href="https://twitter.com/kishore19123886"><img alt="Twitter" title="Twitter" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCgpT3ZaSzPT70Lq0wBfxmRg"><img alt="YouTube" title="YouTube" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>&nbsp;
-  <a href="https://www.facebook.com/kishoredurai27/"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
- <a href="https://www.instagram.com/kishore__durai/"><img alt="instagram" title="instagram" height="28" width="28" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>&nbsp;
+  <a href="https://www.facebook.com/kishoredurai27/"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://img.icons8.com/color/344/facebook-new.png"></a>&nbsp;
+ <a href="https://www.instagram.com/kishore__durai/"><img alt="instagram" title="instagram" height="28" width="28" src="https://img.icons8.com/fluency/344/instagram-new.png"></a>&nbsp;
   <a href = "mailto:kishore.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
 </p>
 
