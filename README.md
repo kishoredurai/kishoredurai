@@ -5,7 +5,7 @@
 
 ## ✨ About Me :
 - 🔭 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning data structure Algorithms and go 
+- 🌱 I’m currently learning devops 
 - 👯 I’m looking to collaborate on ...
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 🏆 Grand Finalist of "Smart India Hackathon 2020" - Software Edition!
@@ -40,7 +40,7 @@
 <p align="left">
   <a href="https://github.com/kishoredurai"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
   <a href="https://www.linkedin.com/in/kishore-durai-7932321a4/"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
-   <a href="https://open.spotify.com/user/dad8c7j9q5hp75iug7dx8bc3r"><img alt="Spotify" title="Spotify" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>&nbsp;
+   <a href="https://open.spotify.com/user/dad8c7j9q5hp75iug7dx8bc3r"><img alt="Spotify" title="Spotify" height="28" width="28" src="https://img.icons8.com/color/344/spotify--v3.png"></a>&nbsp;
     <a href="https://twitter.com/kishore19123886"><img alt="Twitter" title="Twitter" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCgpT3ZaSzPT70Lq0wBfxmRg"><img alt="YouTube" title="YouTube" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>&nbsp;
   <a href="https://www.facebook.com/kishoredurai27/"><img alt="Facebook" title="Facebook" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>&nbsp;
